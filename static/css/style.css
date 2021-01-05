@@ -1,0 +1,27 @@
+body {
+background-image: url("../images/2_animated_background.gif"); 
+color: #f7f7f7;
+  }
+
+  .jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  img{float: right;}
+
+ul {
+  list-style: url("https://www.fg-a.com/bullets/2018-bullet-animation.gif");
+}
+
+form{background-color: black;}
+
+table tr td:first-letter{
+  text-transform:capitalize;}
+
+table td:nth-child(3){
+  text-transform: uppercase;
+}
+table td:nth-child(4){
+  text-transform: uppercase;
+}
