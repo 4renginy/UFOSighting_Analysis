@@ -2,7 +2,7 @@
 
 You are invited to see the end results of this project;
 
-[UFO sightings in US](https://4renginy.github.io/UFOSightingsRY.io){:target="_blank"}
+[UFO sightings in US](https://4renginy.github.io/UFOSightingsRY.io) {:target='-blank'}
 
 ## Background Info;
 Dana is a data journalist and she is given the opportunity to write about her hometown McMinnville, Oregon. The town  is famous with UFO sightings and she is facinated by the topic. After deciding to write about the topic she has collected some data about the sigthings like dates the objects has been seen, place they have been seen, the shape of the objects described by the people and comments. 
