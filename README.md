@@ -21,7 +21,7 @@ Visitors can enter a specific date, or a specific city, or a specific state, or 
 ## Result
 
 Please click on the link to see the website
-<h2>
+<h2 style: color:red;>
 
 [UFO SIGHTINHS in US](https://4renginy.github.io/UFOSightingsRY.io)
 
