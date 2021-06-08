@@ -17,8 +17,9 @@ So the idea is to create a interactive web page using javascript, html, and css 
 
 Visitors can enter a specific date, or a specific city, or a specific state, or a specific country or a specific shape name to get the list of data they are looking for. 
 
-## Please click on the link to see the Results.
 
-UFO SIGHTINGS WEBSITE
+## Result
 
-[UFO sightings in US](https://4renginy.github.io/UFOSightingsRY.io)
+Please click on the link to see the website
+
+[UFO SIGHTINHS in US](https://4renginy.github.io/UFOSightingsRY.io)
