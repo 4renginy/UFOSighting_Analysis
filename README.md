@@ -23,7 +23,7 @@ So the idea is to create a interactive web page using javascript, html, and css 
 
 
 Visitors can enter a specific date,  city, state, country or shape name to get the list of data they are looking for. 
-[https://github.com/4renginy/UFOSightingsRY.io/blob/main/filter.PNG]
+![](https://github.com/4renginy/UFOSightingsRY.io/blob/main/filter.PNG)
 
 
 <h2>
