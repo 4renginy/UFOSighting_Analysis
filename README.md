@@ -8,7 +8,20 @@ Please click on the link to see the website for the project.
   </h2>
 
 ## Background Info;
-Dana is a data journalist and she is given the opportunity to write about her hometown McMinnville, Oregon. The town  is famous with UFO sightings and she is facinated by the topic. After deciding to write about the topic she has collected some data about the sigthings like dates the objects has been seen, place they have been seen, the shape of the objects described by the people and comments. 
+
+This project is about a facinating topic.. UFO sigthings. 
+
+We wanted to collect data about ufo
+
+
+
+
+
+
+
+
+
+
 
 [link_to json_data_file](https://github.com/4renginy/Module11-UFOs/blob/main/Static/js/data.js)
 
