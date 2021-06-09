@@ -22,7 +22,8 @@ So the idea is to create a interactive web page using javascript, html, and css 
 <br>In that page, she will have a big table with all the information in it, next to the table she will include filters to pull out specific data. 
 
 
-Visitors can enter a specific date, or a specific city, or a specific state, or a specific country or a specific shape name to get the list of data they are looking for. 
+Visitors can enter a specific date,  city, state, country or shape name to get the list of data they are looking for. 
+[https://github.com/4renginy/UFOSightingsRY.io/blob/main/filter.PNG]
 
 
 <h2>
