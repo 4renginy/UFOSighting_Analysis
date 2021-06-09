@@ -26,8 +26,3 @@ Visitors can enter a specific date,  city, state, country or shape name to get t
 ![](https://github.com/4renginy/UFOSightingsRY.io/blob/main/filter.PNG)
 
 
-<h2>
-
-[UFO SIGHTINHS in US](https://4renginy.github.io/UFOSightingsRY.io)
-
-  </h2>
