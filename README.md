@@ -10,33 +10,18 @@ Please click on the link to see the website for the project.
 
 ## Background Info;
 
-This project is about a facinating topic.. UFO sigthings. 
+The purpose of this project is to create a dynamic webpage. Dynamic pages are pages that accept user inputs and visually abudjusts to reflect that interaction.
+Javascript is a front end development language that adds extra functions and custumizations to enhance user experiance.
 
-As astrology becomes more and more poplular we wanted 
-
-
-
-
-
-
-
-
-
-
+ Data:
+ 
+ We used the json data about UFO sightings in US.
 
 [link_to json_data_file](https://github.com/4renginy/Module11-UFOs/blob/main/Static/js/data.js)
 
-Putting this to a regular web page will make it hard for the viewers to find the right data instead she decided to use javascript and html together to create interactive dashboard for the site visiters. 
-
-She already knows using html and css she can create only flat web pages but she wants to have an interactive dashboard with filtering options. In order to do that she decided to add javascript to the picture. Javascript is a front end devepomnet language which means extra funcionality and enhancing  the user experiance.
-Javascript has several futures specifically useful for data anlysis like creating dashboards, buttons, dropdown-boxes...by adding javascript we are creating a "dynamic web page"
-
-## The idea;
-So the idea is to create a interactive web page using javascript, html, and css together. 
-<br>In that page, she will have a big table with all the information in it, next to the table she will include filters to pull out specific data. 
+In this project we built a table to hold and neatlty display the data we want to work with then we added filters to that table which lets users refine their search on more than one level.For example for location based data a user can opt to view results located in certain countries or even cities. This page is 
 
 
-Visitors can enter a specific date,  city, state, country or shape name to get the list of data they are looking for. 
 ![](https://github.com/4renginy/UFOSightingsRY.io/blob/main/filter.PNG)
 
 
