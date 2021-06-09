@@ -4,6 +4,7 @@ Please click on the link to see the website for the project.
 <h2>
 
 [UFO SIGHTINHS in US](https://4renginy.github.io/UFOSightingsRY.io)
+  
 
   </h2>
 
@@ -11,7 +12,7 @@ Please click on the link to see the website for the project.
 
 This project is about a facinating topic.. UFO sigthings. 
 
-We wanted to collect data about ufo
+As astrology becomes more and more poplular we wanted 
 
 
 
