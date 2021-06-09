@@ -1,12 +1,6 @@
 # Module11-UFOs
 
-Please click on the link to see the website for the project.
-<h2>
 
-[UFO SIGHTINHS in US](https://4renginy.github.io/UFOSightingsRY.io)
-  
-
-  </h2>
 
 ## Background Info;
 
@@ -26,5 +20,15 @@ In this project we built a table in an HTML page to hold and neatlty display the
 
 
 ![](https://github.com/4renginy/UFOSightingsRY.io/blob/main/filter.PNG)
+
+## Result;
+
+Please click on the link to see the website for the project.
+<h2>
+
+[UFO SIGHTINHS in US](https://4renginy.github.io/UFOSightingsRY.io)
+  
+
+  </h2>
 
 
